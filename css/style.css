@@ -4723,7 +4723,7 @@ textarea.form-input {
 	right: 0;
 	padding-left: 19px;
 	padding-right: 19px;
-	font-size: 18px;
+	font-size: 13px;
 	font-weight: 400;
 	line-height: 22px;
 	pointer-events: none;
@@ -11582,7 +11582,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   /* GRID STYLING */
 
   .spinner-box {
-	right: 0;
+	left: 30%;
 	width: 300px;
 	height: 300px;
 	display: flex;
